@@ -1,0 +1,22 @@
+.clock-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #ffdd57;
+}
+
+.time {
+  font-size: 2rem;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 15px 25px;
+  border-radius: 10px;
+}
